@@ -23,7 +23,9 @@ The Grand Wedding project is an exquisite and luxurious event planning endeavor 
  ## Azure Technologies used:
 
  1. Static Web Apps(for deployment of the website)
+ 
  2. Azure Storage Account
+  
  3. Container
 
 ## Web Technologies Used:
