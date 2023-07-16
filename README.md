@@ -30,8 +30,11 @@ The Grand Wedding project is an exquisite and luxurious event planning endeavor 
 
 ## Web Technologies Used:
 1.HTML
+
 2.CSS
+
 3.Java Script
+
 ## IDE Used:
 Vs code
 ## Steps Followed While Deploying:
