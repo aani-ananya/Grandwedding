@@ -50,4 +50,4 @@ Vs code
 
 6.After that i have created a container with blob storage and uploaded my project code into the container.
 
-7.finally my website was deployed on the azure web services and ready to use. 
+7.Finally my website was deployed on the azure web services and ready to use. 
