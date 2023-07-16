@@ -1,5 +1,5 @@
 # Grandwedding
-this is my first project.
+
 
 ## Project Statement:
 The Grand Wedding project aims to orchestrate an opulent and unforgettable celebration
