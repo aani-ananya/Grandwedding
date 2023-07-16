@@ -39,9 +39,15 @@ The Grand Wedding project is an exquisite and luxurious event planning endeavor 
 Vs code
 ## Steps Followed While Deploying:
 1.firstly i built teh  complete project using visual studio code,then tested it on the  live server extension's
+
 2.After that i have installed the git on my system.
+
 3.After that i uploaded and committed the project into my github repositry.
-4.The projecgt was deployed using the github pages and tested it. 
+
+4.The projecgt was deployed using the github pages and tested it.
+
 5.After that i logged into my azure account and  created azure storage account.
+
 6.After that i have created a container with blob storage and uploaded my project code into the container.
+
 7.finally my website was deployed on the azure web services and ready to use. 
