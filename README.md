@@ -1,6 +1,7 @@
-# Grandweddingk
+# Grandwedding
 this is my first project.
-#Project Statement:
+
+## Project Statement:
 The Grand Wedding project aims to orchestrate an opulent and unforgettable celebration
 that reflects the couple's unique personalities and preferences. We will curate a captivating 
 theme, manage a comprehensive budget, and coordinate top-tier vendors for a seamless 
@@ -9,7 +10,7 @@ exceptional entertainment, our goal is to exceed expectations while ensuring cli
 satisfaction. By meticulously planning and executing a flawless wedding day, we aim to 
 create cherished memories that will be treasured for a lifetime.
 
-#Project Description:
+## Project Description:
 
 The Grand Wedding project is an exquisite and luxurious event planning endeavor that 
  strives to create a memorable celebration of love. Through meticulous attention to detail and 
@@ -19,19 +20,19 @@ The Grand Wedding project is an exquisite and luxurious event planning endeavor 
  an unforgettable event that leaves a lasting impression on everyone involved.
  The Grand Wedding project embraces elegance, sophistication, and timeless beauty, making dreams come true in a grand and majestic manner.
 
- #Azure Technologies used:
+ ## Azure Technologies used:
 
  1. Static Web Apps(for deployment of the website)
  2. Azure Storage Account
  3. Container
 
-#Web Technologies Used:
+## Web Technologies Used:
 1.HTML
 2.CSS
 3.Java Script
-#IDE Used:
+## IDE Used:
 Vs code
-#Steps Followed While Deploying:
+## Steps Followed While Deploying:
 1.firstly i built teh  complete project using visual studio code,then tested it on the  live server extension's
 2.After that i have installed the git on my system.
 3.After that i uploaded and committed the project into my github repositry.
