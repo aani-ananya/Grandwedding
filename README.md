@@ -38,7 +38,7 @@ The Grand Wedding project is an exquisite and luxurious event planning endeavor 
 ## IDE Used:
 Vs code
 ## Steps Followed While Deploying:
-1.firstly i built teh  complete project using visual studio code,then tested it on the  live server extension's
+1.firstly i built the  complete project using visual studio code,then tested it on the  live server extension's
 
 2.After that i have installed the git on my system.
 
